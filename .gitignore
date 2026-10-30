@@ -1,0 +1,16 @@
+# API keys and secrets
+.streamlit/secrets.toml
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Generated Excel files
+*.xlsx
